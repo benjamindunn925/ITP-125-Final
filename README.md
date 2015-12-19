@@ -1,3 +1,7 @@
+<h3>Python Programming Project- ITP-125</h3>
+<p>Assignment: Write a Python program that outputs an mp3 file voice mail message for the users own phone number. You will also allow the user to choose whether they want the female or male version, and which reasons they want to include in their message. The spliced mp3 files will be provided. Example: https://www.youtube.com/watch?v=-8JsvwUcok0</p>
+
+
 <h4>LOGIC:</h4>
 <p>The program is a basic user input and file output operation. The user is presented with some options to choose
 and these are stored in a series of strings and arrays that are used to create a ringtone. Only one reason and one
